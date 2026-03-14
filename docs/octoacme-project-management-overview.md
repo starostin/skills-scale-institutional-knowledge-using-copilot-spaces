@@ -20,6 +20,16 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+### Additional Common Roles
+Depending on project scope and complexity, the following roles are also engaged. See [`docs/octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md) for full descriptions and interactions.
+- UX Designer: leads user research, interface design, and accessibility review.
+- Business Analyst: clarifies requirements, maps processes, and validates business outcomes.
+- Scrum Master / Agile Coach: facilitates agile ceremonies and removes team impediments.
+- Release Manager: coordinates releases, owns the deployment checklist, and manages go/no-go.
+- Tech Lead / Engineering Lead: provides technical direction and guides architecture decisions.
+- Security Engineer: embeds security practices, conducts threat modeling, and owns vulnerability triage.
+- SRE / DevOps Engineer: owns CI/CD pipelines, system reliability, and incident response.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
